@@ -1,6 +1,6 @@
 import pytest
 from flask import Flask
-from src.app import app
+from app import app 
 
 @pytest.fixture
 def client():
