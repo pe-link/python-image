@@ -1,0 +1,4 @@
+registry: 'pe-link'
+repository: 'python-image'
+dependencies-path: 'src/requirements.txt'
+python-version: '3.10.5'
