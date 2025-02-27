@@ -1,4 +1,5 @@
 registry: 'pe-link'
+registry-docker: 'pedrohplink'
 repository: 'python-image'
 dependencies-path: 'src/requirements.txt'
 python-version: '3.10.5'
